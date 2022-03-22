@@ -1,10 +1,10 @@
 # academic-projects
 This repository contains following projects made as univeristy assignments:
 
-### galacats:
+### galacats
 Pygame game inspired by Space Invaders - there are several changes to game dynamics, also instead of spaceships there are cats shooting laser bullets.
 
-### LCG:
+### LCG
 Jupyter notebook containing my implementation of Linear Congruential Generator and detailed description of the steps I'm taking throughout the way (in Polish). My tasks in this projects were: 
 <ul>
   <li> implementation of pseudo-random integers generator,</li>
