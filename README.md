@@ -1,5 +1,10 @@
-# academic-projects
-This repository contains following projects made as univeristy assignments:
-
-### galacats:
-Pygame game inspired by Space Invaders - there are several changes to game dynamics, also instead of spaceships there are cats shooting laser bullets.
+<!DOCTYPE  html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>file_1647979917594</title><style type="text/css"> * {margin:0; padding:0; text-indent:0; }
+ h1 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 14pt; }
+ p { color: black; font-family:Georgia, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; margin:0pt; }
+ h2 { color: black; font-family:Georgia, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ .s1 { color: black; font-family:Arial, sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ li {display: block; }
+ #l1 {padding-left: 0pt; }
+ #l1> li>*:first-child:before {content: "• "; color: black; font-family:Arial, sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 10pt; }
+</style></head><body><h1 style="padding-top: 4pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">academic-projects</h1><p style="padding-top: 9pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">This repository contains following projects made as univeristy assignments:</p><p style="text-indent: 0pt;text-align: left;"><br/></p><h2 style="padding-left: 5pt;text-indent: 0pt;text-align: left;">galacats:</h2><p style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">Pygame game inspired by Space Invaders - there are several changes to game dynamics, also instead of spaceships there are cats shooting laser bullets.</p><p style="text-indent: 0pt;text-align: left;"><br/></p><h2 style="padding-left: 5pt;text-indent: 0pt;text-align: left;">LCG:</h2><p style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">Jupyter notebook containing my implementation of Linear Congruential Generator. My tasks in this projects were:</p><ul id="l1"><li data-list-text="•"><p style="padding-top: 8pt;padding-left: 30pt;text-indent: -10pt;text-align: left;">implementation of pseudo-random integers generator,</p></li></ul><p class="s1" style="text-indent: 0pt;line-height: 10pt;text-align: left;">•</p><p style="text-indent: 0pt;text-align: left;"/><p style="padding-top: 8pt;padding-left: 30pt;text-indent: 0pt;text-align: left;">based on created pseudo-random generator: implementation of the random real numbers generator, returning numbers coming from uniform distribution on</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="text-indent: 0pt;text-align: center;">1</p></body></html>
