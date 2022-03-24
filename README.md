@@ -28,4 +28,4 @@ Traffic simulation made with Pygame. Folder contains: <em>traffic.py</em> file (
 
 ### q-voter
 
-Q-voter model on the ring. Folder contains: <em>qvoter.jl</em> file (Julia language implementation of the model, writing simulation results to .txt files), <em>qplots</em> file, where I create plots from existing .txt files, and <em>results.pdf</em> with created plots and their short analysis (in English).
+Q-voter model on the ring. Folder contains: <em>qvoter.jl</em> file (Julia language implementation of the model, results of the simulation are written to .txt files), <em>qplots</em> file, where I create plots from existing .txt files, and <em>results.pdf</em> with created plots and their short analysis (in English).
