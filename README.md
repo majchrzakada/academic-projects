@@ -12,5 +12,16 @@ Jupyter notebook containing my implementation of Linear Congruential Generator a
   <li> making the seed of the generator completely random,</li>
   <li> clear, understandable graphic presentation of my results,</li>
   <li> calculating sample mean and variance (comparison to generator already implemented in Python), running Kolmogorov-Smirnov test on generated sample.</li>
-  
-  
+</ul>
+
+### traffic
+
+Traffic simulation made with Pygame. Folder contains: <em>traffic.py</em> file (simulation code), <em>traffic.pdf</em> file (detailed description and analysis of the problem in Polish), <em>stuff</em> directory, containing all needed graphics, and two directories - <em>plots</em> and <em>gif</em> - to which required plots and animations are saved. My task in this project was creating a simulation of car traffic at several intersections, following given rules:
+<ul>
+  <li> Map is divided into identical sqaures. Every car moves square by square, unless the next square is taken or the car comes across an intersection. </li>
+  <li> Cars show up on entry roads according to Poisson process with different intensity functions for each entrance. </li>
+  <li> Green light turns on clockwise for every intersection. Also, every traffic light has its own parameters describing green, yellow and red light duration. Those parameters are set by user. </li>
+  <li> At the intersection, every car waits for the green light. When it turns on, car has to choose its next direction according to given discreet probability distribution (predefined for each intersection). </li>
+  <li> After leaving the map, cars disappear and are no longer part of the traffic. </li>
+  <li> User should have a possibility to save simulation to animated gif. </li>
+</ul>
