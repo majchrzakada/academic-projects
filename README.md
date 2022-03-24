@@ -29,3 +29,15 @@ Traffic simulation made with Pygame. Folder contains: <em>traffic.py</em> file (
 ### q-voter
 
 Q-voter model on the ring. Folder contains: <em>qvoter.jl</em> file (Julia language implementation of the model, results of the simulation are written to .txt files), <em>qplots</em> file, where I create plots from existing .txt files, and <em>results.pdf</em> with created plots and their short analysis (in English).
+
+### arma
+
+Group project (in Polish). Our tasks here included:
+<ul>
+  <li> finding real data time series with seasonality and linear trend (we chose EUR/PLN exchange rate), </li>
+  <li> calculating basic summary statistics for the data, </li>
+  <li> data preparation: removing trend and seasonality, </li>
+  <li> empirical ACF and PACF analysis, </li>
+  <li> ARMA(p, q) model fitting, </li>
+  <li> residual analysis. </li>
+</ul>
