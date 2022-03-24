@@ -25,3 +25,7 @@ Traffic simulation made with Pygame. Folder contains: <em>traffic.py</em> file (
   <li> After leaving the map, cars disappear and are no longer part of the traffic. </li>
   <li> User should have a possibility to save simulation to animated gif. </li>
 </ul>
+
+### q-voter
+
+Q-voter model on the ring. Folder contains: <em>qvoter.jl</em> file (Julia language implementation of the model, writing simulation results to .txt files), <em>qplots</em> file, where I create plots from existing .txt files, and <em>results.pdf</em> with created plots and their short analysis (in English).
