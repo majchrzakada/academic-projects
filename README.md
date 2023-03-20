@@ -41,3 +41,7 @@ Group project (in Polish). Our tasks here included:
   <li> ARMA(p, q) model fitting, </li>
   <li> residual analysis. </li>
 </ul>
+
+### undirected_graph
+
+Jupyter notebook file containing my Python implementation of the undirected graph structure.
