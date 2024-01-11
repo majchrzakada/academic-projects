@@ -79,10 +79,47 @@ Group report for Computer Simulations of Stochastic Processes class.
   <li> Comparison of two methods - lag variance and rescaled range. </li>
 </ul>
 
-### Threshold
+### Threshold_qvoter
 
 Group project for Diffusion Processes on Complex Networks class.
 <ul>
   <li> Description and implementation of the threshold q-voter model with our own modification for three types of networks - Random Graph, Barabasi-Albert and Watts-Strogatz. </li>
   <li> Contains .ipynb with implementation and .pdf with project results. </li>
 </ul>
+
+### spam
+
+Group project for Data Mining class.
+<ul>
+  <li> Analysis of  <i>Spambase</i> dataset. </li>
+  <li> EDA and classification (spam vs nonspam e-mails) using four classifiers - KNN, Random Forest, LDA, QDA. </li>
+</ul>
+
+### neural_net
+
+My implementation of a simple neural network for MNIST handwritten numbers classification (Machine Learning class).
+
+### cnn
+
+Classification of cifar10 dataset images using Cpnvolutional Neural Network built in keras (Machine Learning class).
+
+### rnn
+
+Prediction of Tesla open stock prices using simple RNN, LSTM and GRU models, built in keras (Machine Learning class).
+
+### GoL
+
+My implementation of Conway's Game of Life, done for Agent Based Modelling class.
+<ul>
+  <li> gol.ipynb - implementation </li>
+  <li> grids - initial grids in .txt files </li>
+  <li> gifs - resulting gifs </li>
+</ul>
+
+### schelling
+
+My implementation of Schelling's separation model, done for Agent Based Modelling class.
+
+### bass
+
+My implementation of Bass diffusion model, done for Agent Based Modelling class.
