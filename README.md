@@ -45,3 +45,44 @@ Group project (in Polish). Our tasks here included:
 </ul>
 
 ## Master's degree
+
+### stefan-problem
+
+Group project for Partial Differential Equations class. 
+<ul>
+  <li> Stefan problem - model that describes the heat transfer and phase change phenomena occurring at the interface (a boundary moving in time) between a solid and a liquid during melting or solidification process.</li>
+  <li> Attached notebook contains more detailed Stefan problem description and its solution with Crank-Nicholson scheme.</li>
+  <li> Recommended to open in jupyter notebook, in VScode some LaTeX-related errors appear.</li>
+</ul>
+
+### CSoSP1
+
+Group report for Computer Simulations of Stochastic Processes class.
+<ul>
+  <li> Comparison of methods for alpha stable parameters estimation. </li>
+  <li> Analysis of the tails of the alpha stable variable. </li>
+</ul>
+
+### CSoSP2
+
+Group report for Computer Simulations of Stochastic Processes class.
+<ul>
+  <li> Simulation of alpha stable vectors. </li>
+  <li> Spectral measure estimation. </li>
+</ul>
+
+### CSoSP3
+
+Group report for Computer Simulations of Stochastic Processes class.
+<ul>
+  <li> Hurst index estimation for Fractional Brownian Motion. </li>
+  <li> Comparison of two methods - lag variance and rescaled range. </li>
+</ul>
+
+### Threshold
+
+Group project for Diffusion Processes on Complex Networks class.
+<ul>
+  <li> Description and implementation of the threshold q-voter model with our own modification for three types of networks - Random Graph, Barabasi-Albert and Watts-Strogatz. </li>
+  <li> Contains .ipynb with implementation and .pdf with project results. </li>
+</ul>
