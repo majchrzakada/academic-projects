@@ -1,6 +1,8 @@
 # academic-projects
 This repository contains following projects made as univeristy assignments:
 
+## Bachelor's degree
+
 ### galacats
 Pygame game inspired by Space Invaders - there are several changes to game dynamics, also instead of spaceships there are cats shooting laser bullets.
 
@@ -42,6 +44,4 @@ Group project (in Polish). Our tasks here included:
   <li> residual analysis. </li>
 </ul>
 
-### undirected_graph
-
-Jupyter notebook file containing my Python implementation of the undirected graph structure.
+## Master's degree
