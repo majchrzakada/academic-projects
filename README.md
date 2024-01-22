@@ -50,7 +50,7 @@ Group project for Databases course (in Polish).
 <ul>
   <li> Designing a fictional curling club database in Python. </li>
   <li> Uploading resulting tables to SQL database. </li>
-  <li> Creating an interactive Excel report querying from created database. </li>
+  <li> Creating an interactive Excel report (using VBA), querying from said database. </li>
 </ul>
 
 ## Master's degree
