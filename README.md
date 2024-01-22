@@ -44,6 +44,15 @@ Group project (in Polish). Our tasks here included:
   <li> residual analysis. </li>
 </ul>
 
+### curling_club_database
+
+Group project for Databases course (in Polish).
+<ul>
+  <li> Designing a fictional curling club database in Python. </li>
+  <li> Uploading resulting tables to SQL database. </li>
+  <li> Creating an interactive Excel report querying from created database. </li>
+</ul>
+
 ## Master's degree
 
 ### stefan-problem
