@@ -110,7 +110,7 @@ My implementation of a simple neural network for MNIST handwritten numbers class
 
 ### cnn
 
-Classification of cifar10 dataset images using Cpnvolutional Neural Network built in keras (Machine Learning class).
+Classification of cifar10 dataset images using Convolutional Neural Network built in keras (Machine Learning class).
 
 ### rnn
 
